@@ -23,3 +23,5 @@ pip install pandas numpy matplotlib tensorflow scikit-learn
 ## Dataset
 
 The historical stock price data is obtained from Yahoo Finance using the `pandas_datareader` library.
+## Jupyter Notebook containing the code for data preparation, model training, and predictions
+https://github.com/Hemang-01/StockPredictionLstm/blob/main/StockPrediction.ipynb
